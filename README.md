@@ -21,7 +21,9 @@ Food order app using **Reactjs** and **hooks** where there are three frames.
   
   # Installing
   * Download and extract the repository.
-  * To install the required dependencies, inside the terminal, run command npm install,npm start
+  * To install the required dependencies, inside the terminal, run command 
+   * npm install 
+   * npm start
   * After following above steps, your browser should automatically launched. If not, open your browser and run http://localhost:3000/ 
   
   # Built With
